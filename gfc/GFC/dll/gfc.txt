@@ -1,0 +1,22 @@
+Please distribute this file with the GFC runtime environment.
+
+==========================
+GFC - Games Fundamental Classes
+==========================
+
+Games Fundamental Classes - GFC - is a library created to facilitate building simple 2D games in C++
+by Jarek Francik - purposely developed as an aid to the Games Fundamentals module
+taught at Kingston University, London.
+
+The GFC source code is available from:
+http://gamesfundamentals.com/?page_id=560
+
+This library is distributed under the terms of the GNU LGPL license:
+http://www.gnu.org/copyleft/lesser.html
+
+GFC has been build on top of SDL (Simple DirectMedia Layer), a cross platform graphics library written by Sam Lantinga, 
+with extensions by various authors. SDL is available under the terms of GNU LGPL license at:
+http://www.libsdl.org/
+
+
+Copyright (C) 2009-2013 Jarek Francik, Kingston University London

@@ -1,0 +1,9 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+e:\users\dan\desktop\physics-golf\gfcgame\stdafx.h(19): fatal error C1083: Cannot open include file: 'GFC.h': No such file or directory
+  SpriteHole.cpp
+e:\users\dan\desktop\physics-golf\gfcgame\stdafx.h(19): fatal error C1083: Cannot open include file: 'GFC.h': No such file or directory
+  SpriteBall.cpp
+e:\users\dan\desktop\physics-golf\gfcgame\stdafx.h(19): fatal error C1083: Cannot open include file: 'GFC.h': No such file or directory
+  MyGame.cpp
+e:\users\dan\desktop\physics-golf\gfcgame\stdafx.h(19): fatal error C1083: Cannot open include file: 'GFC.h': No such file or directory
